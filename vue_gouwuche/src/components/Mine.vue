@@ -29,6 +29,6 @@ export default {
 <style scoped>
  .mine{
    font-size: 36px;
-   background-color: #ff0;
+  
  }
 </style>
